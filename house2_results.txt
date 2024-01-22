@@ -1,0 +1,14 @@
+Excluded attributes	MSE
+price	73254682624.0
+bedrooms	76106866688.0
+bathrooms	73467002880.0
+sqft_living	74429464576.0
+sqft_lot	72738185216.0
+floors	73276563456.0
+waterfront	70123864064.0
+view	73732988928.0
+condition	72935948288.0
+sqft_above	74401628160.0
+sqft_basement	70910238720.0
+yr_built	74987208704.0
+yr_renovated	72406482944.0
